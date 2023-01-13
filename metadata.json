@@ -1,0 +1,16 @@
+{
+    "description": "This NFT proves I have deployed an ERC721 Smart Contract on Goerli",
+    "external_url": "https://imlearning.com",
+    "image": "https://ipfs.filebase.io/ipfs/QmctnfsM4NM7xbM2GHFyS6QRu3GfdeukfSb29tDLNXZQuo",
+    "name": "ERC721 PoK",
+    "attributes": [
+        {
+          "trait_type": "Nose",
+          "value": "Long"
+        },
+        {
+          "trait_type": "Mood",
+          "value": "Grumpy"
+        },
+      ]
+  }
